@@ -1,0 +1,16 @@
+[StartTime]
+Engine Intake Manifold-Frequency 1.MFC=
+[SolverState]
+Engine Intake Manifold-Frequency 1.MFC=2
+[MainFrame]
+Engine Intake Manifold-Frequency 1.MFC=MCAAAAAAAAAAAAAABAAAAAAAPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPMECAAAAAHEBAAAAAELDAAAAAKBCAAAAA
+[ShowMin]
+Engine Intake Manifold-Frequency 1.MFC=yes
+[SolverType]
+Engine Intake Manifold-Frequency 1.MFC=Linear Analysis
+[StudyType]
+Engine Intake Manifold-Frequency 1.MFC=-1
+[StudyName]
+[Solver]
+Engine Intake Manifold-Frequency 1.MFC=Sparse
+[StudyName1]
